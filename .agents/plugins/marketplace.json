@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-toolkit",
+  "interface": {
+    "displayName": "LinkedIn Toolkit"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-toolkit",
+      "source": {
+        "source": "local",
+        "path": "./.codex-marketplace/linkedin-toolkit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-toolkit",
+  "description": "16 Claude Code and Codex skills for LinkedIn: post writing, carousels, comment drafting, reply handler (single + whole-thread sweep), DM and connection notes, inbox triage, hook extractor, humanizer (rewrite + audit + runnable local cleaner and scorer), profile optimizer with a 100-point score, content planner, repurposer, performance review of published posts, employee advocacy, thread monitor, engager analytics, interviewer (Story Bank).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Pritesh K.",
+    "url": "https://github.com/priteshkeleven"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/priteshkeleven/linkedin-toolkit",
+  "keywords": [
+    "linkedin",
+    "marketing",
+    "social-media",
+    "content",
+    "claude-skills",
+    "codex-skills",
+    "humanizer"
+  ]
+}

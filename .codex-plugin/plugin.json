@@ -1,0 +1,42 @@
+{
+  "name": "linkedin-toolkit",
+  "description": "16 Claude Code and Codex skills for LinkedIn: post writing, carousels, comment drafting, reply handler (single + whole-thread sweep), DM and connection notes, inbox triage, hook extractor, humanizer (rewrite + audit + runnable local cleaner and scorer), profile optimizer with a 100-point score, content planner, repurposer, performance review of published posts, employee advocacy, thread monitor, engager analytics, interviewer (Story Bank).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Pritesh K.",
+    "url": "https://github.com/priteshkeleven"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/priteshkeleven/linkedin-toolkit",
+  "repository": "https://github.com/priteshkeleven/linkedin-toolkit",
+  "keywords": [
+    "linkedin",
+    "marketing",
+    "social-media",
+    "content",
+    "claude-skills",
+    "codex-skills",
+    "humanizer"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "LinkedIn Toolkit",
+    "composerIcon": "./assets/icon.svg",
+    "shortDescription": "LinkedIn marketing skills for Claude Code and Codex.",
+    "longDescription": "A bundle of 16 LinkedIn skills for Claude Code and Codex: post and carousel writing, comments, replies, DMs, inbox triage, hook extraction, humanizing with a runnable local cleaner and scorer, profile scoring and rewrites, content planning, performance review, employee advocacy, thread monitoring, engager analytics and a Story Bank interviewer.",
+    "developerName": "Pritesh K.",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/priteshkeleven/linkedin-toolkit",
+    "defaultPrompt": [
+      "Draft a LinkedIn post from my notes.",
+      "Improve this LinkedIn comment.",
+      "Plan a week of LinkedIn content."
+    ],
+    "brandColor": "#0A66C2"
+  }
+}
